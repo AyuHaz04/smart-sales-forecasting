@@ -31,3 +31,15 @@ The project includes data preprocessing, feature engineering, model training, ev
 ---
 
 ## 📂 Project Structure
+smart-sales-forecasting/
+│
+├── data/ # Dataset (ignored in GitHub)
+├── notebooks/
+│ └── analysis.ipynb # Data analysis & model training
+├── app.py # Streamlit app
+├── rf_model.pkl # Trained ML model
+├── requirements.txt
+├── README.md
+└── .gitignore
+
+
