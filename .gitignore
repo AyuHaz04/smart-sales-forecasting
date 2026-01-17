@@ -1,0 +1,12 @@
+# Ignore datasets
+data/
+
+# Ignore virtual environment
+venv/
+
+# Ignore cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
